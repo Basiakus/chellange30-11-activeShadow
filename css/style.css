@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Asset');
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#text_zone {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+}
+#text_zone h1 {
+	box-sizing: border-box;
+	font-family: 'Asset', cursive;
+	font-size: 2em;
+	font-style: bold;
+	text-align: center;
+	
+	color: white;
+}
